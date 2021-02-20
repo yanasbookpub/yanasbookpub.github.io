@@ -1,4 +1,4 @@
-##OVEN BAKED BACON##
+**OVEN BAKED BACON**
 1. Preheat your oven to 400 degrees fahrenheit.
 2. Line a large baking pan with parchment paper.
 3. Lay the bacon in pan.
