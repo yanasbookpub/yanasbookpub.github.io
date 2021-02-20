@@ -4,4 +4,5 @@
 3. Lay the bacon in pan.
 4. Cook the bacon until it’s as crispy as you’d like.
 5. Remove the bacon from the oven and transfer to a paper towel-lined plate.
-![GitHub Logo](ClipartKey161082.png)
+
+![Bacon](ClipartKey_161082.png)
